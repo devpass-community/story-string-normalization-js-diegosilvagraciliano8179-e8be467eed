@@ -4,5 +4,4 @@ let novoTexto = str.replace(regex,'')
 console.log(novoTexto)
 }
 
-
 module.exports = removeAccent;
